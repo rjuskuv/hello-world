@@ -8,5 +8,5 @@ Adding and Comitting is a two step process. Then you push it out to the cloud.
 
 You can also do these steps in the Github as well. If you change something on GitHub, remember to use the pull command to update it on the shell. 
 
-Look! It's a turtle
 ![This Green Turtle is eating grass on the ocean floor. How cute!](https://github.com/rjuskuv/hello-world/blob/gh-pages/greenturtle.jpg)
+This is a turtle. 
