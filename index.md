@@ -6,3 +6,5 @@ This is the test file from the Library Carpentries Class, held at Brown Universi
 
 Adding and Comitting is a two step process. Then you push it out to the cloud. 
 
+You can also do these steps in the Github as well. 
+
